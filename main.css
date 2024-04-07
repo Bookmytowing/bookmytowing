@@ -842,6 +842,7 @@ swiper-slide {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    gap: 1rem;
 }
 
 .container-sociallink {
@@ -920,6 +921,14 @@ swiper-slide {
     font-size: 15px;
     text-align: center;
     margin-top: 12px;
+}
+
+.address{
+    color:#FFE227;
+}
+.address h3 span{
+    font-size: 14px;
+    font-weight: 100;
 }
 @media screen and ( max-width:1080px){
     header
@@ -1030,6 +1039,11 @@ swiper-slide {
     }
     .swiper-slide-container-description{
         font-size: 15px;
+    }
+    .address h3 span{
+        font-size: 14px;
+        font-weight: 100;
+        text-align: center;
     }
 }
 /* for tablet */
@@ -1324,5 +1338,16 @@ swiper-slide {
     }
     .swiper-slide-container-description{
         font-size: 15px;
+    }
+    .address{
+        text-align: center;
+    }
+    .address h3{
+        font-size:14px ;
+    }
+    .address h3 span{
+        font-size: 12px;
+        font-weight: 100;
+        text-align: center;
     }
 }
