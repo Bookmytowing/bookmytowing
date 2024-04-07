@@ -935,6 +935,8 @@ swiper-slide {
     font-weight: 100;
     color:#FFE227;
 }
+
+
 @media screen and ( max-width:1080px){
     header
     {
@@ -1045,10 +1047,16 @@ swiper-slide {
     .swiper-slide-container-description{
         font-size: 15px;
     }
+    .address{
+        color:#FFE227;
+    }
+    .address h3{
+        color:#FFE227;
+    }
     .address h3 span{
         font-size: 14px;
         font-weight: 100;
-        text-align: center;
+        color:#FFE227;
     }
 }
 /* for tablet */
