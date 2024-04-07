@@ -842,7 +842,7 @@ swiper-slide {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    gap: 1rem;
+    gap: 1.5rem;
 }
 
 .container-sociallink {
