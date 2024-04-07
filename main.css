@@ -926,9 +926,13 @@ swiper-slide {
 .address{
     color:#FFE227;
 }
+.address h3{
+    color:#FFE227;
+}
 .address h3 span{
     font-size: 14px;
     font-weight: 100;
+    color:#FFE227;
 }
 @media screen and ( max-width:1080px){
     header
