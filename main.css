@@ -131,7 +131,7 @@ header {
 }
 
 .logo img{
-    width: 150px;
+    width: 100px;
     aspect-ratio: 3 / 2;
     object-fit: cover;
 }
